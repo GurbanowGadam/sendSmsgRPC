@@ -1,0 +1,6 @@
+go.sum
+server/node_modules
+server/package-lock.json
+send-sms.proto
+client
+server
